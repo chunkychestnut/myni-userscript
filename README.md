@@ -5,7 +5,7 @@
 2. Connect your iPhone by cable.
 3. On the app view, scroll to the bottom and click `New Shortcut`. Add LN.
 4. Click LN.
-5. Click on `clothes_date...`.
+5. Click on `usrdat` > `clothes_date...`.
 6. Click `Copy to Mac` or whatever equivalent.
 7. Upload that file to NI in the [user page](https://my.nikkis.info/user/ln).
 
